@@ -9,7 +9,7 @@
 /nb*
 /release.properties
 /target
-
+main/resources
 # These are needed if running in IDE without properties set
 /ibderby
 derby.log
