@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7885c473-1fcf-40f0-a9a7-ed0bac526445" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+    <list default="true" id="7885c473-1fcf-40f0-a9a7-ed0bac526445" name="Default Changelist" comment="Update Test OF ONE Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <workItem from="1590052229941" duration="401000" />
       <workItem from="1590052779249" duration="2785000" />
       <workItem from="1590310013331" duration="1469000" />
-      <workItem from="1590311601225" duration="670000" />
+      <workItem from="1590311601225" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="Idea Commit">
       <created>1590052940199</created>
@@ -125,27 +125,71 @@
       <option name="project" value="LOCAL" />
       <updated>1590311941403</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update Test OF ONE Commit">
+      <created>1590312342150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590312342150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Idea Commit" />
     <MESSAGE value="Idea Two Commit" />
     <MESSAGE value="Update db.properties Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update db.properties Commit" />
+    <MESSAGE value="Update Test OF ONE Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Test OF ONE Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2334" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590055952499">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2334" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590055952499" />
-    <state x="573" y="110" key="CommitChangelistDialog2" timestamp="1590311939667">
+    <state x="573" y="110" key="CommitChangelistDialog2" timestamp="1590312378429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="573" y="110" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590311939667" />
+    <state x="573" y="110" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312378429" />
     <state x="2493" y="110" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590053797062" />
     <state x="2660" y="262" key="FileChooserDialogImpl" timestamp="1590052834512">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -155,22 +199,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2739" y="412" width="282" height="293" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590053233587" />
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1590312238913">
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1590312466471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312238913" />
-    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1590312238913">
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312466471" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1590312466470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312238913" />
-    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1590312238912">
+    <state width="1875" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312466470" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1590312466470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312238912" />
-    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1590312238913">
+    <state width="1875" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312466470" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1590312466470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312238913" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312466470" />
     <state width="1875" height="346" key="GridCell.Tab.1.bottom" timestamp="1590311507301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -191,10 +235,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2383" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590053119962" />
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1590311273489">
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1590312630050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="255" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590311273489" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590312630050" />
     <state x="2472" y="255" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1590055931606" />
     <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590311248163">
       <screen x="0" y="0" width="1920" height="1040" />
