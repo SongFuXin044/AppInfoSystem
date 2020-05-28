@@ -21,6 +21,7 @@ public class DevUserController {
     @PostMapping("dologin")
     public String Devlogin(Model model, HttpSession session, String devcode , String devpassword){
         DevUser devUser = devUserService.queryLogin(devcode, devpassword);
+        System.out.println(devpassword);
         if (devUser!=null){
             session.setAttribute("devuser",devUser);
             return "/developer/main";//如果用户存在,就转发到后台主页面
@@ -36,7 +37,7 @@ public class DevUserController {
      */
     @GetMapping("logout")
     public String logout(HttpSession session){
-        session.invalidate();//初始化session里面的数据
-        return "redirect:jsp/devlogin";
+        session.invalidate();
+        return "redirect:/jsp/devlogin.jsp";
     }
  }
