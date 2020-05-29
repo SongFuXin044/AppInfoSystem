@@ -18,6 +18,14 @@
     <mvc:resources mapping="/statics/**" location="/statics/"></mvc:resources>
 
     <!--    全局拦截器    -->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <mvc:exclude-mapping path="/dev/dologin"/>
+            <mvc:exclude-mapping path="/statics/**"/>
+            <bean class="com.jbit.Utils.SysInterceptor"></bean>
+        </mvc:interceptor>
+    </mvc:interceptors>
 
     <!--    转换器    -->
 

@@ -35,10 +35,10 @@
             <form action="/dev/dologin" method="post">
               <h1>APP开发者平台</h1>
               <div>
-                <input type="text" class="form-control" name="devcode" placeholder="请输入用户名" required="" />
+                <input type="text" class="form-control" name="devcode" placeholder="请输入用户名" value="SuperManager" required="" />
               </div>
               <div>
-                <input type="password" class="form-control" name="devpassword" placeholder="请输入密码" required="" />
+                <input type="password" class="form-control" name="devpassword" placeholder="请输入密码" value="123456" required="" />
               </div>
               <span>${error }</span>
               <div>
