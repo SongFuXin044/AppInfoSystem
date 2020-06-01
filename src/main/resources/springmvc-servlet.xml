@@ -13,7 +13,26 @@
     <!--        扫描controller-->
     <context:component-scan base-package="com.jbit.web"></context:component-scan>
     <!--    开启MVC注解-->
-    <mvc:annotation-driven></mvc:annotation-driven>
+    <mvc:annotation-driven>
+        <mvc:message-converters>
+    <!--            spring响应格式处理-->
+            <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+                <property name="supportedMediaTypes">
+                    <list>
+                        <value>text/html;charset-UTF-8</value>
+                    </list>
+                </property>
+            </bean>
+    <!--            json响应格式处理-->
+            <bean class="com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter">
+                <property name="supportedMediaTypes">
+                    <list>
+                        <value>json/application;charset=UTF-8</value>
+                    </list>
+                </property>
+            </bean>
+        </mvc:message-converters>
+    </mvc:annotation-driven>
     <!--    静态资源-->
     <mvc:resources mapping="/statics/**" location="/statics/"></mvc:resources>
 
